@@ -1,1 +1,1 @@
-This project is to create an Amazon Replica using React and Firebase to utilize user authenication, API fetching with an established backend, payment processing with stripe
+This repo is a clone of the previous one, but with the intention to deploy through Firebase. This project is to create an Amazon Replica using React and Firebase to utilize user authenication, API fetching with an established backend, payment processing with stripe
