@@ -7,7 +7,7 @@
 <div align="center">
 
 
-  <h3 align="center">rAmazon Fullstack</h3>
+  <h3 align="center">Amazon Fullstack</h3>
   <a href= "https://clone-16516.web.app/">Demo</a>
 
 </div>
